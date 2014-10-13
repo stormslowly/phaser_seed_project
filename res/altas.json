@@ -1,0 +1,996 @@
+{"metadata": {
+  "realTextureFileName": "baseResource.png",
+  "format": 2,
+  "textureFileName": "baseResource.png",
+  "smartupdate": "$TexturePacker:SmartUpdate:bafe7d3ee318860b705e0900d3668aa9$",
+  "size": "{494,512}"
+},
+  "frames": [
+    {
+      "filename": "pattern_destroy_16",
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 102,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 7,
+        "w": 102,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_13",
+      "frame": {
+        "x": 306,
+        "y": 2,
+        "w": 94,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 10,
+        "w": 94,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_10",
+      "frame": {
+        "x": 396,
+        "y": 76,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 12,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_explode_08",
+      "frame": {
+        "x": 217,
+        "y": 228,
+        "w": 66,
+        "h": 59
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 20,
+        "w": 66,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_05",
+      "frame": {
+        "x": 65,
+        "y": 450,
+        "w": 60,
+        "h": 55
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 23,
+        "w": 60,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_02",
+      "frame": {
+        "x": 267,
+        "y": 364,
+        "w": 56,
+        "h": 53
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 24,
+        "w": 56,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "cocos03",
+      "frame": {
+        "x": 369,
+        "y": 186,
+        "w": 37,
+        "h": 41
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 41
+      }
+    },
+    {
+      "filename": "pattern_explode_11",
+      "frame": {
+        "x": 204,
+        "y": 368,
+        "w": 66,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 20,
+        "w": 66,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "cocos00",
+      "frame": {
+        "x": 325,
+        "y": 192,
+        "w": 37,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 41
+      }
+    },
+    {
+      "filename": "pattern_explode_14",
+      "frame": {
+        "x": 74,
+        "y": 378,
+        "w": 68,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 18,
+        "w": 68,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_mark_freeze",
+      "frame": {
+        "x": 354,
+        "y": 446,
+        "w": 39,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 39,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "filename": "pattern_mark_petrifaction",
+      "frame": {
+        "x": 354,
+        "y": 399,
+        "w": 41,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 41,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "filename": "pattern_destroy_07",
+      "frame": {
+        "x": 164,
+        "y": 156,
+        "w": 76,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 12,
+        "w": 76,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_04",
+      "frame": {
+        "x": 2,
+        "y": 160,
+        "w": 72,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 11,
+        "w": 72,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_01",
+      "frame": {
+        "x": 2,
+        "y": 378,
+        "w": 70,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 12,
+        "w": 70,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "cocos06",
+      "frame": {
+        "x": 304,
+        "y": 148,
+        "w": 41,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 43,
+        "h": 42
+      }
+    },
+    {
+      "filename": "pattern_destroy_15",
+      "frame": {
+        "x": 106,
+        "y": 2,
+        "w": 100,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 8,
+        "w": 100,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_12",
+      "frame": {
+        "x": 402,
+        "y": 2,
+        "w": 90,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 10,
+        "w": 90,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_explode_10",
+      "frame": {
+        "x": 209,
+        "y": 296,
+        "w": 66,
+        "h": 59
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 21,
+        "w": 66,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_07",
+      "frame": {
+        "x": 122,
+        "y": 448,
+        "w": 62,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 20,
+        "w": 62,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_04",
+      "frame": {
+        "x": 246,
+        "y": 78,
+        "w": 58,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 22,
+        "w": 58,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_01",
+      "frame": {
+        "x": 270,
+        "y": 296,
+        "w": 54,
+        "h": 53
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 23,
+        "w": 54,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_13",
+      "frame": {
+        "x": 139,
+        "y": 378,
+        "w": 68,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 18,
+        "w": 68,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_16",
+      "frame": {
+        "x": 2,
+        "y": 450,
+        "w": 60,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 60,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "cocos04",
+      "frame": {
+        "x": 369,
+        "y": 148,
+        "w": 36,
+        "h": 43
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 43
+      }
+    },
+    {
+      "filename": "pattern_mark_explode",
+      "frame": {
+        "x": 278,
+        "y": 192,
+        "w": 45,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "filename": "cocos01",
+      "frame": {
+        "x": 433,
+        "y": 191,
+        "w": 36,
+        "h": 41
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 41
+      }
+    },
+    {
+      "filename": "pattern_destroy_09",
+      "frame": {
+        "x": 86,
+        "y": 78,
+        "w": 80,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 12,
+        "w": 80,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_06",
+      "frame": {
+        "x": 78,
+        "y": 226,
+        "w": 74,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 12,
+        "w": 74,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_03",
+      "frame": {
+        "x": 2,
+        "y": 234,
+        "w": 70,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 12,
+        "w": 70,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_00",
+      "frame": {
+        "x": 74,
+        "y": 306,
+        "w": 70,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 12,
+        "w": 70,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_selected",
+      "frame": {
+        "x": 322,
+        "y": 352,
+        "w": 45,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "filename": "pattern_bg",
+      "frame": {
+        "x": 278,
+        "y": 239,
+        "w": 45,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "filename": "pattern_destroy_17",
+      "frame": {
+        "x": 168,
+        "y": 78,
+        "w": 76,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 5,
+        "w": 76,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_14",
+      "frame": {
+        "x": 208,
+        "y": 2,
+        "w": 96,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 8,
+        "w": 96,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_11",
+      "frame": {
+        "x": 306,
+        "y": 76,
+        "w": 88,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 12,
+        "w": 88,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_explode_09",
+      "frame": {
+        "x": 242,
+        "y": 436,
+        "w": 64,
+        "h": 59
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 21,
+        "w": 64,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "cocos02",
+      "frame": {
+        "x": 433,
+        "y": 148,
+        "w": 41,
+        "h": 43
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0,
+        "w": 41,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 43
+      }
+    },
+    {
+      "filename": "pattern_explode_03",
+      "frame": {
+        "x": 246,
+        "y": 135,
+        "w": 56,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 23,
+        "w": 56,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_00",
+      "frame": {
+        "x": 303,
+        "y": 422,
+        "w": 52,
+        "h": 49
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 25,
+        "w": 52,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_06",
+      "frame": {
+        "x": 185,
+        "y": 448,
+        "w": 62,
+        "h": 55
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 23,
+        "w": 62,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_12",
+      "frame": {
+        "x": 146,
+        "y": 298,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 20,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "pattern_explode_15",
+      "frame": {
+        "x": 154,
+        "y": 228,
+        "w": 66,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 18,
+        "w": 66,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 95
+      }
+    },
+    {
+      "filename": "cocos05",
+      "frame": {
+        "x": 395,
+        "y": 446,
+        "w": 36,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 45
+      }
+    },
+    {
+      "filename": "pattern_destroy_08",
+      "frame": {
+        "x": 2,
+        "y": 78,
+        "w": 82,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 12,
+        "w": 82,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_05",
+      "frame": {
+        "x": 86,
+        "y": 150,
+        "w": 74,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 11,
+        "w": 74,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    },
+    {
+      "filename": "pattern_destroy_02",
+      "frame": {
+        "x": 2,
+        "y": 306,
+        "w": 70,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 12,
+        "w": 70,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 92
+      }
+    }
+  ]}
